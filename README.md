@@ -1,0 +1,1 @@
+This is a simple Calculator Web Application built using HTML, CSS, and JavaScript.The project demonstrates the use of DOM manipulation, event handling, and basic JavaScript logic to create an interactive web application.
